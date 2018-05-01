@@ -1,2 +1,5 @@
 platforms/
 plugins/
+.idea
+.npmignore
+node_modules
